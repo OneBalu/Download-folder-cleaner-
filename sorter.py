@@ -68,3 +68,4 @@ for others in os.listdir(path):
 #print(others_counter, " darab duplikátum észlelve és törölve!")
 print("\nTakarítás befejeződött! \n \n \n \n")
 
+#ez egy komment
